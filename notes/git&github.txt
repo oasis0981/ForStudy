@@ -1,0 +1,12 @@
+local = 내혼자 commit해야함
+
+remote = 공유,원격 push해줘야함
+
+
+
+<<GITHUB>>
+head = 내가 있는 위치
+branch끼리 합병 = merge
+add(기능) = test branch
+show(기능)
+커밋 - master branch 
