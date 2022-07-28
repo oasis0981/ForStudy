@@ -7,9 +7,11 @@
 # students.sort(key=lambda x:x[2])
 
 d = dict() # ㅋㅣ : 값
-dict["a"] = 2
-dict["b"] = 3
-sorted(d, key=lambda x:x[1])
+d['a'] = 5
+d['b'] = 3
+
+sorted(d.items(), key=lambda x:x[1])
+print(d)
 
 # def swap(x, y):
 #     temp = a

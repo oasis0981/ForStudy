@@ -23,7 +23,6 @@ class FourCal:#클래스 생성 방법, 아무것도 수행하지 않을 때는 
         result = self.first / self.second
         return result
 
-
 # def setdata(self, first, second): --> 메서드의 매개변수
     # 첫 번째 매개변수 self에는 setdata를 호출한 객체 a가 자동으로 전달된다.
 # self.first = first --> 메서드의 수행문
